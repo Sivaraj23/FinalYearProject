@@ -1,0 +1,4 @@
+#Mon Apr 16 05:00:04 IST 2018
+base.0=I\:\\projects\\Finalf-20180222T152325Z-001\\Finalf22.3.2018\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

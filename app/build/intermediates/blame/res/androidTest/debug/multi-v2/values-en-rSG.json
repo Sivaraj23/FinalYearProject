@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "I:\\projects\\Finalf-20180222T152325Z-001\\Finalf22.3.2018\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sivar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-10.0.1.aar\\35a4a72fc84043a8611ba1309e379490\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
